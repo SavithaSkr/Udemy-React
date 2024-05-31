@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+Link to view the project is https://udemy-react-nine-beige.vercel.app/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
